@@ -1,0 +1,18 @@
+{
+  "name": "grunt-test",
+  "version": "1.0.0",
+  "description": "grunt test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "jcchen",
+  "license": "ISC",
+  "dependencies": {
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "grunt-test",
+  "version": "0.0.0",
+  "authors": [
+    "jcchen <junchangchen@gmail.com>"
+  ],
+  "main": "index.js",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
